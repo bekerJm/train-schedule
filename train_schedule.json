@@ -1,0 +1,465 @@
+[
+  {
+    "name": "Tunis/تونس",
+    "latitude": 36.8008,
+    "longitude": 10.1802,
+    "schedule": {
+      "to_erriadh/الى الرياض": {
+        "-": [
+          "6:00",
+          "7:30",
+          "8:00",
+          "8:30",
+          "9:00",
+          "9:30",
+          "10:00",
+          "10:30",
+          "11:00",
+          "11:30",
+          "12:30",
+          "13:00",
+          "13:30",
+          "14:00",
+          "14:30",
+          "15:00",
+          "15:30",
+          "16:00",
+          "16:30",
+          "17:05",
+          "18:00",
+          "18:30",
+          "19:00",
+          "19:30",
+          "20:00/except jebel jelloud-sauf jebel jelloud-باستثناء جبل الجلود",
+          "20:30/except maahad rades-sauf Maahad Rades-باستثناء محطة معهد رادس",
+          "21:00/except maahad rades _ jebel jelloud-sauf Maahad Rades _ jebel jellod-باستثناء محطة معهد رادس _ جبل الجلود",
+          "21:30/except maahad rades _ jebel jelloud-sauf Maahad Rades _ jebel jellod-باستثناء محطة معهد رادس _ جبل الجلود",
+          "22:00/except maahad rades _ jebel jelloud-sauf Maahad Rades _ jebel jellod-باستثناء محطة معهد رادس _ جبل الجلود"
+        ],
+        "A": [
+          "4:35/except maahad rades-sauf Maahad Rades-باستثناء محطة معهد رادس",
+          "5:10/except maahad rades-sauf Maahad Rades-باستثناء محطة معهد رادس",
+          "5:40/except maahad rades-sauf Maahad Rades-باستثناء محطة معهد رادس",
+          "6:20/except maahad rades-sauf Maahad Rades-باستثناء محطة معهد رادس",
+          "6:45",
+          "7:00/rades_ez-zahra_hammam lif-rades_ez-zahra_hammam lif-رادس_الزهراء_حمام الأنف",
+          "7:10",
+          "8:15/except jebel jelloud-sauf jebel jelloud-باستثناءمحطة جبل الجلود",
+          "9:15",
+          "11:50/except maahad rades-sauf Maahad Rades-باستثناء محطة معهد رادس",
+          "12:05"
+        ],
+        "B": [
+          "5:00/except maahad rades-sauf Maahad Rades-باستثناء محطة معهد رادس",
+          "5:30/except maahad rades-sauf Maahad Rades-باستثناء محطة معهد رادس",
+          "6:30",
+          "7:00",
+          "12:00"
+        ],
+        "C": [
+          "7:30/direct to rades-direct aux rades-مباشرة إلى رادس ",
+          "15:50/rades_ez-zahra_hammam lif-rades_ez-zahra_hammam lif-رادس_الزهراء_حمام الأنف",
+          "17:00/rades_ez-zahra_hammam lif-rades_ez-zahra_hammam lif-رادس_الزهراء_حمام الأنف",
+          "17:20",
+          "17:35/rades-rades_ez-zahra_hammam lif-رادس_الزهراء_حمام الأنف",
+          "17:45",
+          "18:50/direct to rades-direct aux rades-مباشرة إلى رادس"
+        ]
+      },
+      "to_bouguatfa/الى بوقطفة": {
+        "-":[
+          "20:10"
+        ]
+      }
+
+    }
+  },
+
+  {
+    "name": "jebel jelloud/جبل الجلود",
+    "latitude":36.7725,
+    "longitude":10.2196,
+    "schedule": {
+      "to_erriadh/الى الرياض": {
+        "-": [
+          "6:09",
+          "7:39",
+          "8:09",
+          "8:39",
+          "9:09",
+          "9:39",
+          "10:09",
+          "10:39",
+          "11:09",
+          "11:39",
+          "12:39",
+          "13:09",
+          "13:39",
+          "14:09",
+          "14:38",
+          "15:09",
+          "15:38",
+          "16:08",
+          "16:38",
+          "17:13",
+          "18:08",
+          "18:38",
+          "19:08",
+          "19:39",
+          "20:38/except maahad rades-sauf Maahad Rades-باستثناء محطة معهد رادس"
+        ],
+        "A": [
+          "4:44/except maahad rades-sauf Maahad Rades-باستثناء محطة معهد رادس",
+          "5:19/except maahad rades-sauf Maahad Rades-باستثناء محطة معهد رادس",
+          "5:49/except maahad rades-sauf Maahad Rades-باستثناء محطة معهد رادس",
+          "6:29/except maahad rades-sauf Maahad Rades-باستثناء محطة معهد رادس",
+          "6:54",
+          "7:20",
+          "9:23",
+          "11:59/except maahad rades-sauf Maahad Rades-باستثناء محطة معهد رادس",
+          "12:14"
+        ],
+        "B": [
+          "5:09/except maahad rades-sauf Maahad Rades-باستثناء محطة معهد رادس",
+          "5:39/except maahad rades-sauf Maahad Rades-باستثناء محطة معهد رادس",
+          "6:39",
+          "7:09",
+          "12:08"
+        ],
+        "C": [
+          "17:28",
+          "17:53"
+        ]
+      },
+      "to_tunis/الى تونس": [
+        
+      ]
+    }
+  },
+  {
+    "name": "megrine ryadh/مقرين الرياض",
+    "latitude":36.7702, 
+    "longitude":10.2228,
+    "schedule": {
+      "to_erriadh/الى الرياض": {
+        "-": [
+          "6:12",
+          "7:41",
+          "8:11",
+          "8:41",
+          "9:11",
+          "9:41",
+          "10:11",
+          "10:41",
+          "11:11",
+          "11:41",
+          "12:41",
+          "13:11",
+          "13:42",
+          "14:11",
+          "14:40",
+          "15:11",
+          "15:41",
+          "16:11",
+          "16:41",
+          "17:16",
+          "18:11",
+          "18:41",
+          "19:11",
+          "19:41",
+          "20:10",
+          "20:41/except maahad rades-sauf Maahad Rades-باستثناء محطة معهد رادس",
+          "21:10/except maahad rades-sauf Maahad Rades-باستثناء محطة معهد رادس",
+          "21:41/except maahad rades-sauf Maahad Rades-باستثناء محطة معهد رادس",
+          "22:10/except maahad rades-sauf Maahad Rades-باستثناء محطة معهد رادس"
+        ],
+        "A": [
+          "4:46/except maahad rades-sauf Maahad Rades-باستثناء محطة معهد رادس",
+          "5:22/except maahad rades-sauf Maahad Rades-باستثناء محطة معهد رادس",
+          "5:52/except maahad rades-sauf Maahad Rades-باستثناء محطة معهد رادس",
+          "6:32/except maahad rades-sauf Maahad Rades-باستثناء محطة معهد رادس",
+          "6:57",
+          "7:22",
+          "8:25",
+          "9:26",
+          "12:01/except maahad rades-sauf Maahad Rades-باستثناء محطة معهد رادس",
+          "12:16"
+        ],
+        "B": [
+          "5:12/except maahad rades-sauf Maahad Rades-باستثناء محطة معهد رادس",
+          "5:42/except maahad rades-sauf Maahad Rades-باستثناء محطة معهد رادس",
+          "6:42",
+          "7:12",
+          "12:11"
+        ],
+        "C": [
+          "17:31",
+          "17:56"
+        ]
+      },
+      "to_tunis/الى تونس": [
+        
+      ]
+    }
+  },
+    {
+    "name": "megrine/مقرين",
+    "latitude":36.7683,  
+    "longitude":10.2338,
+    "schedule": {
+      "to_erriadh/الى الرياض": {
+        "-": [
+          "6:14",
+          "7:43",
+          "8:13",
+          "8:43",
+          "9:13",
+          "9:43",
+          "10:13",
+          "10:43",
+          "11:13",
+          "11:43",
+          "12:43",
+          "13:13",
+          "13:44",
+          "14:13",
+          "14:42",
+          "15:13",
+          "15:43",
+          "16:13",
+          "16:43",
+          "17:18",
+          "18:13",
+          "18:43",
+          "19:13",
+          "19:43",
+          "20:12",
+          "20:43/except maahad rades-sauf Maahad Rades-باستثناء محطة معهد رادس",
+          "21:12/except maahad rades-sauf Maahad Rades-باستثناء محطة معهد رادس",
+          "21:43/except maahad rades-sauf Maahad Rades-باستثناء محطة معهد رادس",
+          "22:12/except maahad rades-sauf Maahad Rades-باستثناء محطة معهد رادس"
+        ],
+        "A": [
+          "4:48/except maahad rades-sauf Maahad Rades-باستثناء محطة معهد رادس",
+          "5:24/except maahad rades-sauf Maahad Rades-باستثناء محطة معهد رادس",
+          "5:54/except maahad rades-sauf Maahad Rades-باستثناء محطة معهد رادس",
+          "6:34/except maahad rades-sauf Maahad Rades-باستثناء محطة معهد رادس",
+          "6:59",
+          "7:24",
+          "8:27",
+          "9:28",
+          "12:03/except maahad rades-sauf Maahad Rades-باستثناء محطة معهد رادس",
+          "12:18"
+        ],
+        "B": [
+          "5:14/except maahad rades-sauf Maahad Rades-باستثناء محطة معهد رادس",
+          "5:44/except maahad rades-sauf Maahad Rades-باستثناء محطة معهد رادس",
+          "6:44",
+          "7:14",
+          "12:13"
+        ],
+        "C": [
+          "17:33",
+          "17:58"
+        ]
+      },
+      "to_tunis/الى تونس": [
+        
+      ]
+    }
+  },
+      {
+    "name": "megrine/مقرين",
+    "latitude":36.7683,  
+    "longitude":10.2338,
+    "schedule": {
+      "to_erriadh/الى الرياض": {
+        "-": [
+          "6:16",
+          "7:46",
+          "8:16",
+          "8:46",
+          "9:16",
+          "9:45",
+          "10:15",
+          "10:45",
+          "11:15",
+          "11:46",
+          "12:45",
+          "13:16",
+          "13:46",
+          "14:16",
+          "14:45",
+          "15:16",
+          "15:45",
+          "16:15",
+          "16:45",
+          "17:20",
+          "18:15",
+          "18:45",
+          "19:15",
+          "19:46",
+          "20:15",
+          "20:45/except maahad rades-sauf Maahad Rades-باستثناء محطة معهد رادس",
+          "21:15/except maahad rades-sauf Maahad Rades-باستثناء محطة معهد رادس",
+          "21:45/except maahad rades-sauf Maahad Rades-باستثناء محطة معهد رادس",
+          "22:14/except maahad rades-sauf Maahad Rades-باستثناء محطة معهد رادس"
+        ],
+        "A": [
+          "4:51/except maahad rades-sauf Maahad Rades-باستثناء محطة معهد رادس",
+          "5:26/except maahad rades-sauf Maahad Rades-باستثناء محطة معهد رادس",
+          "5:56/except maahad rades-sauf Maahad Rades-باستثناء محطة معهد رادس",
+          "6:36/except maahad rades-sauf Maahad Rades-باستثناء محطة معهد رادس",
+          "7:01",
+          "7:27",
+          "8:30",
+          "9:30",
+          "12:05/except maahad rades-sauf Maahad Rades-باستثناء محطة معهد رادس",
+          "12:20"
+        ],
+        "B": [
+          "5:16/except maahad rades-sauf Maahad Rades-باستثناء محطة معهد رادس",
+          "5:46/except maahad rades-sauf Maahad Rades-باستثناء محطة معهد رادس",
+          "6:46",
+          "7:16",
+          "12:15"
+        ],
+        "C": [
+          "17:35",
+          "18:00"
+        ]
+      },
+      "to_tunis/الى تونس": [
+        
+      ]
+    }
+  },
+        {
+    "name": "lycee rades/معهد رادس",
+    "latitude":36.7668,  
+    "longitude": 10.2609,
+    "schedule": {
+      "to_erriadh/الى الرياض": {
+        "-": [
+          "6:18",
+          "7:48",
+          "8:18",
+          "8:48",
+          "9:18",
+          "9:47",
+          "10:17",
+          "10:47",
+          "11:17",
+          "11:48",
+          "12:47",
+          "13:18",
+          "13:48",
+          "14:18",
+          "14:47",
+          "15:18",
+          "15:47",
+          "16:17",
+          "16:47",
+          "17:22",
+          "18:17",
+          "18:47",
+          "19:17",
+          "19:48",
+          "20:17"
+        ],
+        "A": [
+          "7:03",
+          "7:29",
+          "8:32",
+          "9:32",
+          "12:22"
+        ],
+        "B": [
+          "6:48",
+          "7:18",
+          "12:17"
+        ],
+        "C": [
+          "17:37",
+          "18:02"
+        ]
+      },
+      "to_tunis/الى تونس": [
+        
+      ]
+    }
+  },
+          {
+    "name": "rades/رادس",
+    "latitude":36.7690,
+    "longitude":10.2714,  
+    "schedule": {
+      "to_erriadh/الى الرياض": {
+        "-": [
+          "6:21",
+          "7:51",
+          "8:21",
+          "8:50",
+          "9:21",
+          "9:50",
+          "10:20",
+          "10:50",
+          "11:20",
+          "11:50",
+          "12:50",
+          "13:20",
+          "13:51",
+          "14:21",
+          "14:49",
+          "15:20",
+          "15:50",
+          "16:20",
+          "16:50",
+          "17:25",
+          "18:20",
+          "18:50",
+          "19:20",
+          "19:50",
+          "20:19",
+          "20:49",
+          "21:19",
+          "21:49",
+          "22:18"
+        ],
+        "A": [
+          "4:55",
+          "5:30",
+          "6:00",
+          "6:40",
+          "7:06",
+          "7:15",
+          "7:32",
+          "8:34",
+          "9:35",
+          "12:09",
+          "12:25"
+        ],
+        "B": [
+          "5:20",
+          "5:50",
+          "6:51",
+          "7:21",
+          "12:20"
+        ],
+        "C": [
+          "8:05",
+          "16:06",
+          "17:15",
+          "17:40",
+          "17:51",
+          "18:05",
+          "19:05"
+        ]
+      },
+      "to_tunis/الى تونس": [
+        
+      ]
+    }
+  }
+
+]
