@@ -42,7 +42,7 @@
           "5:40/except maahad rades-sauf Maahad Rades-باستثناء محطة معهد رادس",
           "6:20/except maahad rades-sauf Maahad Rades-باستثناء محطة معهد رادس",
           "6:45",
-          "7:00/rades_ez-zahra_hammam lif-rades_ez-zahra_hammam lif-رادس_الزهراء_حمام الأنف",
+          "7:00/rades_ezzahra_hammam lif-rades_ezzahra_hammam lif-رادس_الزهراء_حمام الأنف",
           "7:10",
           "8:15/except jebel jelloud-sauf jebel jelloud-باستثناءمحطة جبل الجلود",
           "9:15",
@@ -58,10 +58,10 @@
         ],
         "C": [
           "7:30/direct to rades-direct aux rades-مباشرة إلى رادس ",
-          "15:50/rades_ez-zahra_hammam lif-rades_ez-zahra_hammam lif-رادس_الزهراء_حمام الأنف",
-          "17:00/rades_ez-zahra_hammam lif-rades_ez-zahra_hammam lif-رادس_الزهراء_حمام الأنف",
+          "15:50/rades_ezzahra_hammam lif-rades_ezzahra_hammam lif-رادس_الزهراء_حمام الأنف",
+          "17:00/rades_ezzahra_hammam lif-rades_ezzahra_hammam lif-رادس_الزهراء_حمام الأنف",
           "17:20",
-          "17:35/rades-rades_ez-zahra_hammam lif-رادس_الزهراء_حمام الأنف",
+          "17:35/rades_ezzahra_hammam lif-rades_ezzahra_hammam lif-رادس_الزهراء_حمام الأنف",
           "17:45",
           "18:50/direct to rades-direct aux rades-مباشرة إلى رادس"
         ]
